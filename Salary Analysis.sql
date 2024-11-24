@@ -2,7 +2,7 @@
 -- Dataset Description : The dataset includes columns such as work_year, experience_level, employment_type, job_title, salary, salary_currency, salaryinusd, employee_residence, remote_ratio, company_location, and company_size.
 -- Data sourse : https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023
 
---Key Queries--:
+--Key Queries :
 -- Highest-Paying Roles: To identify top salaries in AI and Machine Learning fields
 -- Remote vs. On-Site Salaries: To compare average salaries for fully remote, on-site, and hybrid roles.
 -- Regional Salary Variation: To analyze average salaries by country.
